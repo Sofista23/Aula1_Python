@@ -1,0 +1,5 @@
+n=input("Digite seu nome completo:")
+n1=n.split()
+print(n.lower())
+print(n1[0])
+print(len(n))
